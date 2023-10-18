@@ -21,3 +21,33 @@
     display: inline-block;
     margin: 0 25px;
 }
+.imagem-zumbi{
+    width: 14%;
+}
+.titulo-zumbi{
+    padding: 10px;
+}
+.imagem-aleijadinho{
+    width: 18%;
+}
+.titulo-aleijadinho{
+    padding: 10px;
+}
+.imagem-pixinguinha{
+    width: 20%;
+}
+.titulo-pixinguinha{
+    padding: 10px;
+}
+.imagem-milton{
+    width: 20%;
+}
+.titulo-milton{
+    padding: 10px;
+}
+.imagem-emicida{
+    width: 20%;
+}
+.titulo-emicida{
+    padding: 10px;
+}
