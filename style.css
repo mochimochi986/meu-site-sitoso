@@ -21,6 +21,9 @@
     display: inline-block;
     margin: 0 25px;
 }
+.titulo-personalidades{
+    padding: 20px;
+}
 .imagem-zumbi{
     width: 14%;
 }
@@ -51,3 +54,77 @@
 .titulo-emicida{
     padding: 10px;
 }
+.titulo-personalidades2{
+    padding: 20px;
+}
+.titulo-justiano{
+    padding: 10px;
+}
+.imagem-reboucas{
+    width: 24%;
+}
+.titulo-reboucas{
+    padding: 10px;
+}
+.imagem-mulato{
+    width: 30%;
+}
+.titulo-mulato{
+    padding: 10px;
+}
+.imagem-carmem{
+    width: 20%;
+}
+.titulo-carmem{
+    padding: 10px;
+}
+.imagem-fernandinho{
+    width: 20%;
+}
+.titulo-fernandinho{
+    padding: 10px;
+}
+.titulo-personalidade3{
+    padding: 20px;
+}
+.imagem-feiosinha{
+    width: 20%;
+}
+.titulo-feiosinha{
+    padding: 10px;
+}
+.titulo-professora{
+    padding: 10px;
+}
+.imagem-palminor{
+    width: 20%;
+}
+.titulo-palminor{
+    padding: 10px;
+}
+.imagem-laura{
+    width: 22%;
+}
+.titulo-laura{
+    padding: 10px;
+}
+.imagem-conka{
+    width: 25%;
+}
+.titulo-conka{
+    padding: 10px;
+}
+.imagem-crente{
+    width: 25%;
+}
+.tia-cléia{
+    padding: 20px;
+    justify-content: space-between;
+}
+.bonus-titulo{
+    padding: 20px;
+}
+.finalização{
+    padding: 20px;
+}
+
